@@ -9,5 +9,3 @@ Then, I built 7 machine learning models such as logistic regression, Support Vec
 The Machine Learning Credit Card Default project can help banks and financial institutions evaluate credit risk and minimize losses. In addition, this project can also help customers to understand how certain factors can affect their ability to pay credit card bills.
 
 Feel free to check out our repository on GitHub and explore our datasets and program code. Thank you for reading and I hope this project can benefit you.
-
-Translated with www.DeepL.com/Translator (free version)
