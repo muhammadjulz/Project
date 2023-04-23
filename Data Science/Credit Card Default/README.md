@@ -1,9 +1,13 @@
 # Credit Card Default
 
-Apakah Anda ingin mengetahui apakah seseorang akan gagal membayar tagihan kartu kredit mereka pada bulan berikutnya? Project Machine Learning Credit Card Default dapat membantu Anda dengan memprediksi kemungkinan gagal bayar pelanggan kartu kredit berdasarkan berbagai faktor seperti jenis pekerjaan, status pernikahan, pendapatan, dan batas kredit.
+Do you want to know if someone will default on their credit card bill the following month? The Machine Learning Credit Card Default project can help you by predicting the likelihood of a credit card customer defaulting based on various factors such as employment type, marital status, income, and credit limit.
 
-Dalam project ini, saya menggunakan dataset yang berisi informasi dari pelanggan kartu kredit, kemudian melakukan eksplorasi data untuk mendapatkan insight tentang hubungan antara variabel. Setelah itu, melakukan preprocessing data, seperti menghapus missing values, membuang outlier, dan melakukan feature scaling.
+In this project, I used a dataset containing information from credit card customers, then explored the data to gain insight into the relationships between variables. After that, we performed data preprocessing, such as removing missing values, removing outliers, and performing feature scaling.
 
-Kemudian, saya membangun 7 model machine learning seperti logistic regression, Support Vector Machine, decision tree, dan random forest, KNN, Naive Bayes dan Ada Boost untuk memprediksi apakah seorang pelanggan akan gagal membayar tagihan pada bulan berikutnya. dilakukan juga evaluasi model dengan menggunakan berbagai metrik seperti akurasi, presisi, recall, dan f1 score
+Then, I built 7 machine learning models such as logistic regression, Support Vector Machine, decision tree, and random forest, KNN, Naive Bayes and Ada Boost to predict whether a customer will default on the bill in the following month. Also, I evaluated the models using various metrics such as accuracy, precision, recall, and f1 score.
 
-Project Machine Learning Credit Card Default dapat membantu bank dan lembaga keuangan dalam mengevaluasi risiko kredit dan meminimalisasi kerugian. Selain itu, project ini juga dapat membantu pelanggan untuk memahami bagaimana faktor-faktor tertentu dapat memengaruhi kemampuan mereka dalam membayar tagihan kartu kredit.
+The Machine Learning Credit Card Default project can help banks and financial institutions evaluate credit risk and minimize losses. In addition, this project can also help customers to understand how certain factors can affect their ability to pay credit card bills.
+
+Feel free to check out our repository on GitHub and explore our datasets and program code. Thank you for reading and I hope this project can benefit you.
+
+Translated with www.DeepL.com/Translator (free version)
