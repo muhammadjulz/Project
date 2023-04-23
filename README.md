@@ -4,7 +4,7 @@ This is a collection of projects that I have made about data science, data analy
 
 ## Table of Content :
 ### 1. Data Analyst
-- IOWA Liquor Sales
+- [IOWA Liquor Sales](https://github.com/muhammadjulz/Project/tree/main/Data%20Analayst/IOWA%20Liquor%20Sales)
 - Supermarket Sales
 ### 2. Data Science
 - Adult Census Income Prediction
