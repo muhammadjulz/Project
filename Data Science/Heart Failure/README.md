@@ -8,4 +8,3 @@ Then, we built several machine learning models such as ADA Boost and random fore
 
 The Machine Learning Heart Failure project can help doctors and medical personnel evaluate the risk of heart failure in patients and provide more effective treatment. In addition, this project can also help the public to understand the factors that can affect the risk of heart failure.
 
-Translated with www.DeepL.com/Translator (free version)
